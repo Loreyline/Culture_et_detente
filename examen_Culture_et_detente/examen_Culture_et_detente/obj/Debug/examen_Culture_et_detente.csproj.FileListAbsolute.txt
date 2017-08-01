@@ -1,0 +1,11 @@
+c:\users\stagiaire\documents\examen_Culture_et_detente\examen_Culture_et_detente\bin\Debug\examen_Culture_et_detente.exe.config
+c:\users\stagiaire\documents\examen_Culture_et_detente\examen_Culture_et_detente\bin\Debug\examen_Culture_et_detente.exe
+c:\users\stagiaire\documents\examen_Culture_et_detente\examen_Culture_et_detente\bin\Debug\examen_Culture_et_detente.pdb
+c:\users\stagiaire\documents\examen_Culture_et_detente\examen_Culture_et_detente\bin\Debug\MySql.Data.dll
+c:\users\stagiaire\documents\examen_Culture_et_detente\examen_Culture_et_detente\obj\Debug\examen_Culture_et_detente.csprojResolveAssemblyReference.cache
+c:\users\stagiaire\documents\examen_Culture_et_detente\examen_Culture_et_detente\obj\Debug\examen_Culture_et_detente.FormeEmail.resources
+c:\users\stagiaire\documents\examen_Culture_et_detente\examen_Culture_et_detente\obj\Debug\examen_Culture_et_detente.Properties.Resources.resources
+c:\users\stagiaire\documents\examen_Culture_et_detente\examen_Culture_et_detente\obj\Debug\examen_Culture_et_detente.csproj.GenerateResource.Cache
+c:\users\stagiaire\documents\examen_Culture_et_detente\examen_Culture_et_detente\obj\Debug\examen_Culture_et_detente.exe
+c:\users\stagiaire\documents\examen_Culture_et_detente\examen_Culture_et_detente\obj\Debug\examen_Culture_et_detente.pdb
+c:\users\stagiaire\documents\examen_Culture_et_detente\examen_Culture_et_detente\obj\Debug\examen_Culture_et_detente.ouvrages.resources
